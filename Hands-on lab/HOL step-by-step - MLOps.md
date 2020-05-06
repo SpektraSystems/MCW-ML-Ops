@@ -145,7 +145,7 @@ In this exercise, you create a model for classifying component text as compliant
 
 9. Select the notebook. Select **+ New Compute** to create the compute instance VM.
 
-    ![On the Notebooks screen, beneath user files, the folder of the current user is expanded along with the folder that was created in step 6. Inside this folder the Notebook that we uploaded in the previous step is displayed and is selected. On the Compute screen to the right, the + New Compute button is highlighted in the top taskbar.](media/computeinstance.png 'Create new compute instance')
+    ![On the Notebooks screen, beneath user files, the folder of the current user is expanded along with the folder that was created in step 6. Inside this folder the Notebook that we uploaded in the previous step is displayed and is selected. On the Compute screen to the right, the + New Compute button is highlighted in the top taskbar.](media/notebook-03.png 'Create new compute instance')
 
 10. Provide the necessary data for creating a new compute instance to run on your notebooks.
 
@@ -155,7 +155,7 @@ In this exercise, you create a model for classifying component text as compliant
 
     c. Then select **Create**. It can take approximately 5 minutes to set up your VM.
 
-    ![The New Compute Instance form is displayed populated with the preceding values.](media/notebook-04.png 'Configure the new compute instance')
+    ![The New Compute Instance form is displayed populated with the preceding values.](media/computeinstance.png 'Configure the new compute instance')
 
     > **Note**: Once the VM is available it will be displayed in the top toolbar. You can now run the notebook either by using **Run all** in the toolbar, or by using **Shift+Enter** in the code cells of the notebook.
 
