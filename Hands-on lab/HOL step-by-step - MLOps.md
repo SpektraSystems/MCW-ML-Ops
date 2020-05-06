@@ -149,7 +149,7 @@ In this exercise, you create a model for classifying component text as compliant
 
 10. Provide the necessary data for creating a new compute instance to run on your notebooks.
 
-    a. Compute name: `notebooks-compute`. When you create a VM, provide a name. The name must be between 2 to 16 characters. Valid characters are letters, digits, and the - character, and must also be unique across your Azure subscription , you can add your deployment id while creating Compute instance.
+    a. Compute name: `notebooks-compute`. When you create a VM, provide a name. The name must be between 2 to 16 characters. Valid characters are letters, digits, and the - character, and must be unique across your Azure subscription, you can add your deployment id associated with your Machine Learning Workspace and a six digit unique number while creating Compute instance.
 
     b. Virtual Machine size: **Standard_D3_v2**.
 
