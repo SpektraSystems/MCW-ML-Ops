@@ -121,7 +121,7 @@ In this exercise, you create a model for classifying component text as compliant
 
 ### Task 1: Setup the notebooks environment
 
-1. Download the [**Deep Learning with Text.ipynb**](./notebooks/Deep&#32;Learning&#32;with&#32;Text.ipynb) notebook to your computer, by selecting the **Raw** view in GitHub, and then **right-click + Save as**. This is the notebook you will step through executing in this lab.If you are not able to  redirected to the path provided in link you can go to Labguide icon provided in the Desktop of Your Virtual Machine, go to **Hands on Lab** , select **Hol step-by-step** go to the step where you have to go to the path of file.  
+1. Download the [**Deep Learning with Text.ipynb**](./notebooks/Deep&#32;Learning&#32;with&#32;Text.ipynb) notebook to your computer, by selecting the **Raw** view in GitHub, and then **right-click + Save as**. This is the notebook you will step through executing in this lab.If you are not able to  redirected to the path provided in link you can go to Labguide icon provided in the Desktop of Your Virtual Machine, go to **Hands on Lab** , select **Hol step-by-step** go to the step where you are accesing the path of file and performing the steps.  
 
 2. Sign in to [Azure Machine Learning studio](https://ml.azure.com).
 
@@ -185,7 +185,7 @@ In this exercise, you explore the approaches you can take to managing the model 
 
 ### Task 1: Register Model using Azure Machine Learning Python SDK
 
-1. Download the [**Register Model.ipynb**](./notebooks/Register&#32;Model.ipynb) notebook to your computer, by selecting the **Raw** view in GitHub, and then **right-click + Save as**. This is the notebook you will step through executing in this exercise.If you are not able to  redirected to the path provided in link you can go to Labguide icon provided in the Desktop of Your Virtual Machine, go to **Hands on Lab** , select **Hol step-by-step** go to the step where you have to go to the path of file.  
+1. Download the [**Register Model.ipynb**](./notebooks/Register&#32;Model.ipynb) notebook to your computer, by selecting the **Raw** view in GitHub, and then **right-click + Save as**. This is the notebook you will step through executing in this exercise.If you are not able to  redirected to the path provided in link you can go to Labguide icon provided in the Desktop of Your Virtual Machine, go to **Hands on Lab** , select **Hol step-by-step** go to the step where you are accesing the path of file and performing the steps.  
 
 
 2. In the Studio, navigate to **Notebooks**, and select **Upload files** option in the top menu.
@@ -621,7 +621,7 @@ In this exercise, you verify that the first release of the application works.
 
 ### Task 1: Test the Deployment
 
-1. Download the [**Test Deployment.ipynb**](./notebooks/Test&#32;Deployment.ipynb) notebook to your computer, by selecting the **Raw** view in GitHub, and then **right-click + Save as**. This is the notebook you will step through executing in this exercise.If you are not able to  redirected to the path provided in link you can go to Labguide icon provided in the Desktop of Your Virtual Machine, go to **Hands on Lab** , select **Hol step-by-step** go to the step where you have to go to the path of file.  
+1. Download the [**Test Deployment.ipynb**](./notebooks/Test&#32;Deployment.ipynb) notebook to your computer, by selecting the **Raw** view in GitHub, and then **right-click + Save as**. This is the notebook you will step through executing in this exercise.If you are not able to  redirected to the path provided in link you can go to Labguide icon provided in the Desktop of Your Virtual Machine, go to **Hands on Lab** , select **Hol step-by-step** go to the step where you are accesing the path of file and performing the steps.  
 
 
 2. In the Azure Machine Learning Studio, navigate to **Notebooks**, and select **Upload files** option in the top menu.
@@ -646,7 +646,7 @@ In this exercise, you learn how to monitor the performance of a deployed model.
 
 2. In the Azure Machine Learning Studio, navigate to **Notebooks**, and select **Upload files** option in the top menu.
 
-3. Browse your local computer for the downloaded notebook, **Model Telemetry.ipynb** and then select **MCW-MLOps** folder as the target folder. Select **Upload**.If you are not able to  redirected to the path provided in link you can go to Labguide icon provided in the Desktop of Your Virtual Machine, go to **Hands on Lab** , select **Hol step-by-step** go to the step where you have to go to the path of file.  
+3. Browse your local computer for the downloaded notebook, **Model Telemetry.ipynb** and then select **MCW-MLOps** folder as the target folder. Select **Upload**.If you are not able to  redirected to the path provided in link you can go to Labguide icon provided in the Desktop of Your Virtual Machine, go to **Hands on Lab** , select **Hol step-by-step** go to the step where you are accesing the path of file and performing the steps.
 
 4. On the top bar, select the **notebooks-compute** compute instance to use to run the notebook. Select **Edit in, Jupyter** or **Edit in, JupyterLab**.
 
