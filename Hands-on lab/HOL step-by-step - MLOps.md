@@ -121,7 +121,7 @@ In this exercise, you create a model for classifying component text as compliant
 
 ### Task 1: Setup the notebooks environment
 
-1. Download the [**Deep Learning with Text.ipynb**](./notebooks/Deep&#32;Learning&#32;with&#32;Text.ipynb) notebook to your computer, by selecting the **Raw** view in GitHub, and then **right-click + Save as**. This is the notebook you will step through executing in this lab.If you are getting redirected to the path provided in link you can go to Labguide icon provided in the Desktop of Your Virtual Machine, go to **Hands on Lab** and select the mentioned step where you have to download the files.  
+1. Download the [**Deep Learning with Text.ipynb**](./notebooks/Deep&#32;Learning&#32;with&#32;Text.ipynb) notebook to your computer, by selecting the **Raw** view in GitHub, and then **right-click + Save as**. This is the notebook you will step through executing in this lab.If you are getting redirected to the path provided in link you can go to Labguide icon provided in the Desktop of Your Virtual Machine, go to **Hands on Lab** , select **Hol step-by-step** go to the step where you have to go to the path of file.  
 
 2. Sign in to [Azure Machine Learning studio](https://ml.azure.com).
 
