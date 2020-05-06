@@ -145,11 +145,11 @@ In this exercise, you create a model for classifying component text as compliant
 
 9. Select the notebook. Select **+ New Compute** to create the compute instance VM.
 
-    ![On the Notebooks screen, beneath user files, the folder of the current user is expanded along with the folder that was created in step 6. Inside this folder the Notebook that we uploaded in the previous step is displayed and is selected. On the Compute screen to the right, the + New Compute button is highlighted in the top taskbar.](media/notebook-03.png 'Create new compute instance')
+    ![On the Notebooks screen, beneath user files, the folder of the current user is expanded along with the folder that was created in step 6. Inside this folder the Notebook that we uploaded in the previous step is displayed and is selected. On the Compute screen to the right, the + New Compute button is highlighted in the top taskbar.](media/computeinstance.png 'Create new compute instance')
 
 10. Provide the necessary data for creating a new compute instance to run on your notebooks.
 
-    a. Compute name: `notebooks-compute`. When you create a VM, provide a name. The name must be between 2 to 16 characters. Valid characters are letters, digits, and the - character, and must also be unique across your Azure subscription.
+    a. Compute name: `notebooks-compute`. When you create a VM, provide a name. The name must be between 2 to 16 characters. Valid characters are letters, digits, and the - character, and must also be unique across your Azure subscription , you can add your deployment id while creating Compute instance.
 
     b. Virtual Machine size: **Standard_D3_v2**.
 
@@ -363,9 +363,9 @@ Duration: 25 minutes
 
 ### Task 3: Review Build Artifacts
 
-1. The build will publish an artifact named `devops-for-ai`. Select **Artifacts, 1 published** to review the artifact contents.
+1. The build will publish an artifact named `devops-for-ai`. Select **1 published** to review the artifact contents.
 
-    ![On the build pipeline run summary, in the table outlining the manual run, the 1 published beneath the artifacts column is selected.](media/devops-build-pipeline-14.png 'Build Artifacts')
+    ![On the build pipeline run summary, in the table outlining the manual run, the 1 published beneath the artifacts column is selected.](media/devops-build-pipeline.png 'Build Artifacts')
 
 2. Select **outputs, eval_info.json**, and then select the download arrow. The `eval_info.json` is the output from the *model evaluation* step. The information from the evaluation step will be used in the release pipeline to deploy the model. Select the back arrow to return to the previous screen.
 
