@@ -42,10 +42,10 @@
           "Order": 9
         },
           
-          {
+        {
           "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/MCW-ML-Ops/master/Hands-on%20lab/09.md",
           "Order": 10
-          }     
+        }     
         ]
     }
   ] 
