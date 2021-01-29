@@ -5,9 +5,7 @@
 1. To get the lab environment details, you can select **Lab Environment** tab. Additionally, the credentials will also be emailed to your email address provided at registration.
 
    ![](media/1.3.png "Lab Envirnment")
- 
-    > You will see Suffix/DeploymentID value on **Lab Environment** tab, use it whereever you see SUFFIX or DeploymentID in lab steps.
- 
+  
 1. You can also open the Lab Guide on Seprate full window by selecting the **Split Window** icon at the bottom right corner.
 
 
